@@ -1,1 +1,1 @@
-echo "please work";
+echo "help";
